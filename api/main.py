@@ -204,7 +204,7 @@ async def lifespan(app: FastAPI):
         logger.warning("Error starting background MQTT subscriber: %s", e)
 
     # 3. Start live background publisher loop
-    simulator_task = asyncio.create_task(live_simulation_worker())
+   # simulator_task = asyncio.create_task(live_simulation_worker())
 
     yield
 
