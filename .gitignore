@@ -47,7 +47,6 @@ data/*.log
 *.sqlite3
 
 # Model checkpoints & exports
-ai/models/*.pt
 ai/models/*.pth
 ai/models/*.onnx
 
