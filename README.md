@@ -134,6 +134,14 @@ uvicorn api.main:app --reload --port 8000
 
 🚀 **Live Dashboard:** [Open Smart Factory Dashboard](https://digitaltwin-smartfactory-1.onrender.com/)
 
+## 📑 Project Report
+
+The complete project report for **AI-Driven Digital Twin for Smart Factory Operations** is available below.
+
+<iframe src="SRS Document - Aryan Kumar Pal" width="100%" height="600px"></iframe>
+
+📄 [Open or download the complete project report](SRS Document - Aryan Kumar Pal)
+
 ### 5. Run Complete Automated Test Suite
 ```powershell
 pytest -v
